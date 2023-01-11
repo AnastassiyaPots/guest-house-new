@@ -1,0 +1,47 @@
+@media (max-width: 1315px) {
+    .topbar .btn {
+        width: 50%;
+    } 
+}
+
+@media (max-width: 576px) {
+    .wrapper {
+        width: calc(100% - 30px);
+    }
+}
+
+@media (max-width: 1203px) {
+   
+    .welcom__header {
+        width: 66%;
+        margin: 0 auto;
+        margin-top: 38px;
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 960px) {
+    .welcom__header {
+        font-size: 30px;
+    }
+    .info__box {
+        column-count: 1;
+        width: 500px;
+    }
+}
+
+@media (max-width: 507px) {
+    .header__flex {
+        
+    }
+
+    header .btn {
+
+    }
+}
+
+@media (max-width: 473px) {
+    .welcom__element {
+        margin-top: 80px;
+    }
+}
